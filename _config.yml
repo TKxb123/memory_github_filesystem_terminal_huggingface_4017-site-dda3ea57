@@ -92,12 +92,17 @@ social:
   twitter_card: summary_large_image
 
 # Author / contact block
+# The values below are inherited from the starter template and are placeholders.
 author:
   name: "Ilaria Bianchi"
   email: "ilaria.bianchi@fastmail.com"
   github: "ibianchi-dev"
   mastodon: "@ilaria@hachyderm.io"
   bluesky: "ilariabianchi.bsky.social"
+  avatar: "/assets/images/author-avatar.jpg"
+  bio: >-
+    Staff machine learning engineer. Writing about retrieval systems,
+    evaluation methodology and data quality.
 
 # Footer
 footer:

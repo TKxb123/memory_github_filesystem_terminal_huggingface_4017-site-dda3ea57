@@ -9,7 +9,7 @@ scoreboard:
   baseline_orion: 0.457
   baseline_vega: 0.306
   baseline_lyra: 0.31
-  team_score: 0.400
+  team_score: 0.4
   status: verified
 - task: sql-synthesis-pass10
   category: Code Generation
@@ -17,7 +17,7 @@ scoreboard:
   baseline_orion: 0.777
   baseline_vega: 0.764
   baseline_lyra: 0.908
-  team_score: 0.820
+  team_score: 0.82
   status: verified
 - task: log-parsing-micro-f1
   category: Parsing
@@ -25,7 +25,7 @@ scoreboard:
   baseline_orion: 0.76
   baseline_vega: 0.85
   baseline_lyra: 0.864
-  team_score: 0.810
+  team_score: 0.81
   status: verified
 - task: intent-routing-macro-f1
   category: NLU
@@ -65,7 +65,7 @@ scoreboard:
   baseline_orion: 0.683
   baseline_vega: 0.652
   baseline_lyra: 0.689
-  team_score: 0.600
+  team_score: 0.6
   status: verified
 - task: knowledge-recall10
   category: Search
@@ -73,7 +73,7 @@ scoreboard:
   baseline_orion: 0.744
   baseline_vega: 0.751
   baseline_lyra: 0.721
-  team_score: 0.810
+  team_score: 0.81
   status: verified
 - task: demand-forecast-mae
   category: Forecasting
